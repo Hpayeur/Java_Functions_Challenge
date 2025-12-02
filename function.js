@@ -58,6 +58,10 @@ function sayHelloWorld() {
 // Test Challenge 5
 sayHelloWorld(); // Expected: "Hello World" logged after 2 seconds
 
+
+
+
+
 //Functions Debugging Part Two
 // increased_challenges.js
 
@@ -110,6 +114,9 @@ function randomNumber() {
 }
 // Test Challenge 5
 console.log(randomNumber()); // Expected: A random number between 1 and 10
+
+
+
 
 // Arrays Debugging Part One
 // array_challenges.js
